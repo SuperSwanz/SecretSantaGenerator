@@ -1,0 +1,6 @@
+AA,aa@aa.com
+BB,bb@bb.com
+CC,cc@cc.com
+DD,dd@dd.com
+EE,ee@ee.com
+FF,ff@ff.com
